@@ -1,0 +1,18 @@
+body{
+    background-color: #004A7C !important;
+    font-family: "Roboto", sans-serif;
+}
+
+.ligne{
+    border-top: 2px, solid, white;
+}
+
+.foot{
+    background-color: #518bb1;
+}
+
+.maTof{
+    width: 300px;
+    margin-top: 50px;
+    border-radius: 100%;
+}

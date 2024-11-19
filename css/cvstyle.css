@@ -1,0 +1,50 @@
+html,body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: "Roboto", sans-serif;
+    background-color: #004A7C !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.accord{
+    margin-top: 200px;
+    margin-right: 30px;
+}
+
+img{
+    width: 30px;
+    margin-right: 25px;
+    margin-top: 4px;
+}
+
+#contact,
+#projets,
+#curliculumVitea{
+    font-size: 30px;
+}
+
+.vitea{
+    font-size: 80px;
+} 
+
+ul li{
+    list-style: none;
+}
+
+
+.foot{
+    background-color: #518bb1;
+    padding: 80px;
+    margin-top: 100px;
+}
+
+.div2{
+    margin-top: 40px;
+}
+
